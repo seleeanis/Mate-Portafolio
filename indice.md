@@ -46,8 +46,5 @@
 
   <h3><span style="color:#ff66b2;">📝 Conclusiones</span></h3>
   <h3><span style="color:#ff66b2;">📚 Referencias</span></h3>
-<a href="referencias.md">
-   
   
-  <h3><span style="color:#ff66b2;">🤖 Uso de la Inteligencia Artificial</span></h3>
 </p>
